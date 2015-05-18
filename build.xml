@@ -44,7 +44,7 @@ version - the version number for the application as a floating point value
 
 -->
 
-<project name="CodenameOne_Template" default="default" basedir=".">
+<project name="CodenameOne_Template_brazil" default="default" basedir=".">
     <description>Builds, tests, and runs the project CodenameOne_Template.</description>
     <import file="nbproject/build-impl.xml"/>
     <property file="codenameone_settings.properties"/>
